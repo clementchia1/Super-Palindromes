@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Super Palindromes", "Super Palindromes\Super Palindromes.csproj", "{AC7AA877-6194-4EA4-8C18-A347D44F00AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC7AA877-6194-4EA4-8C18-A347D44F00AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC7AA877-6194-4EA4-8C18-A347D44F00AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC7AA877-6194-4EA4-8C18-A347D44F00AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC7AA877-6194-4EA4-8C18-A347D44F00AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C36B9407-1E9D-434B-B8CF-F286E01EC414}
+	EndGlobalSection
+EndGlobal
